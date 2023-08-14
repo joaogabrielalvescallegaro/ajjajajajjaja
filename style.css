@@ -1,0 +1,19 @@
+.koso{
+    text-align: center;
+    height: 50px;
+    background-image:linear-gradient( purple,pink,red) 
+}
+.jeg{
+    text-align: center;
+    
+}
+.jpeg{
+    text-align: center;
+   background-color: aqua;
+}
+.body{
+    background-image: linear-gradient(purple,pink,red);
+}
+.iframe{
+   align-items: center;
+}
